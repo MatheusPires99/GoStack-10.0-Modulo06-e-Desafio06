@@ -12,7 +12,7 @@ Nesse projetos desenvolvemos uma aplicação mobile em React Native.
 Essa aplicação busca usuários do GitHub e adiciona em uma lista. Quando clicamos em um usuário entramos no seu perfil no qual podemos ver todos os repositórios que tal usuário marcou com uma estrela. 
 Ao clicar no repositório abrimos uma página Web do GitHub.
 
-### :hammer: Para criação dessa aplicação utilizamos as seguintes ferramentas:
+## :hammer: Para criação dessa aplicação utilizamos as seguintes ferramentas:
 - [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
@@ -21,7 +21,7 @@ Ao clicar no repositório abrimos uma página Web do GitHub.
 - Default Props & PropTypes
 - Local storage do celular
 
-### :iphone: Resultado
+## :iphone: Resultado
 
 ![WebView](.github/Home-Modulo06.png)
 ![WebView](.github/User1-Modulo06.png)
