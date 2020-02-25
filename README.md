@@ -28,3 +28,7 @@ Ao clicar no repositório abrimos uma página Web do GitHub.
 ![WebView](.github/User1-Modulo06.png)
 ![WebView](.github/User2-Modulo06.png)
 ![WebView](.github/Repository-Modulo06.png)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
