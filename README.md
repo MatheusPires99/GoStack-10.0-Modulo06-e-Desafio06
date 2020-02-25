@@ -6,7 +6,6 @@
   Módulo e Desafio 06
 </h3>
 
-
 ## :rocket: Primeiro projeto com React Native
 
 Nesse projetos desenvolvemos uma aplicação mobile em React Native.
