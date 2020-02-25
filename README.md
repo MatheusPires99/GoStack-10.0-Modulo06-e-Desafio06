@@ -21,7 +21,7 @@ Ao clicar no repositório abrimos uma página Web do GitHub.
 - [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 - Default Props & PropTypes
 
-## :iphone: Resultado
+## :iphone: Resultado:
 
 ![WebView](.github/Home-Modulo06.png)
 ![WebView](.github/User1-Modulo06.png)
