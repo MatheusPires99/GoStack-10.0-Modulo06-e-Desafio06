@@ -2,6 +2,10 @@
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
+<h3 align="center">
+  Módulo e Desafio 06
+</h3>
+
 ## Primeiro projeto com React Native GoStack 10.0
 
 Nesse projetos desenvolvemos uma aplicação mobile em React Native.
