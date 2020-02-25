@@ -24,11 +24,11 @@ Ao clicar no repositório abrimos uma página Web do GitHub.
 
 ## :iphone: Resultado:
 
-![ReactJS](.github/tela1.png)
-![ReactJS](.github/tela2.png)
-![ReactJS](.github/tela3.png)
-![ReactJS](.github/tela4.png)
-![ReactJS](.github/tela5.png)
+![WebView](.github/tela1.png)
+![WebView](.github/tela2.png)
+![WebView](.github/tela3.png)
+![WebView](.github/tela4.png)
+![WebView](.github/tela5.png)
 
 ## :memo: Licença
 
