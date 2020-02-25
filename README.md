@@ -6,7 +6,7 @@
   Módulo e Desafio 06
 </h3>
 
-## Primeiro projeto com React Native GoStack 10.0
+## :rocket: Primeiro projeto com React Native
 
 Nesse projetos desenvolvemos uma aplicação mobile em React Native.
 Essa aplicação busca usuários do GitHub e adiciona em uma lista. Quando clicamos em um usuário entramos no seu perfil no qual podemos ver todos os repositórios que tal usuário marcou com uma estrela. 
