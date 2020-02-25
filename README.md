@@ -14,21 +14,22 @@ Essa aplicação busca usuários do GitHub e adiciona em uma lista. Quando clica
 Ao clicar no repositório abrimos uma página Web do GitHub.
 
 ## :hammer: Para criação dessa aplicação utilizamos as seguintes ferramentas:
-- [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
-- [Styled Components](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
-- [Reactotron](https://github.com/infinitered/reactotron)
-- [WebView](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
-- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
+- Criação de componentes
+- Class e function components
+- Styled components
+- Navegação de rotas
+- Estado e imutabilidade
+- Propriedades
 - Default Props & PropTypes
 
 ## :iphone: Resultado:
 
-![WebView](.github/Home-Modulo06.png)
-![WebView](.github/User1-Modulo06.png)
-![WebView](.github/User2-Modulo06.png)
-![WebView](.github/Repository-Modulo06.png)
+![ReactJS](.github/tela1.png)
+![ReactJS](.github/tela2.png)
+![ReactJS](.github/tela3.png)
+![ReactJS](.github/tela4.png)
+![ReactJS](.github/tela5.png)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafio-06/blob/master/LICENSE.md) para mais detalhes.
