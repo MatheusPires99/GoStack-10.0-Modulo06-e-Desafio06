@@ -9,13 +9,13 @@ Essa aplicação busca usuários do GitHub e adiciona em uma lista. Quando clica
 Ao clicar no repositório abrimos uma página Web do GitHub.
 
 ## Para criação dessa aplicação utilizamos as seguintes ferramentas:
-- React Navigation
-- Styled Components
-- Axios
-- Reactotron
-- Local storage do celular
-- WebView
+- [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [WebView](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
 - Default Props & PropTypes
+- Local storage do celular
 
 ## Resultado
 
