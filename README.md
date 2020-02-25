@@ -14,21 +14,20 @@ Essa aplicação busca usuários do GitHub e adiciona em uma lista. Quando clica
 Ao clicar no repositório abrimos uma página Web do GitHub.
 
 ## :hammer: Para criação dessa aplicação utilizamos as seguintes ferramentas:
-- Criação de componentes
-- Class e function components
-- Styled components
-- Navegação de rotas
-- Estado e imutabilidade
-- Propriedades
+- [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [WebView](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
+- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 - Default Props & PropTypes
 
 ## :iphone: Resultado:
 
-![WebView](.github/tela1.png)
-![WebView](.github/tela2.png)
-![WebView](.github/tela3.png)
-![WebView](.github/tela4.png)
-![WebView](.github/tela5.png)
+![React Native](.github/Home-Modulo06.png)
+![React Native](.github/User1-Modulo06.png)
+![React Native](.github/User2-Modulo06.png)
+![React Native](.github/Repository-Modulo06.png)
 
 ## :memo: Licença
 
