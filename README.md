@@ -18,8 +18,8 @@ Ao clicar no repositório abrimos uma página Web do GitHub.
 - [Axios](https://github.com/axios/axios)
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [WebView](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
+- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 - Default Props & PropTypes
-- Local storage do celular
 
 ## :iphone: Resultado
 
